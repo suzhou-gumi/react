@@ -2,7 +2,7 @@ import React from "react";
 
 const jsx = (
   <div>
-    hello <span>react</span>
+    hello <span>react.js</span>
   </div>
 );
 
